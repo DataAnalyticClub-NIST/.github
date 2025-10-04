@@ -1,4 +1,4 @@
-We are a community of students passionate about data science, machine learning, AI, and analytics, working together to explore, innovate, and build impactful projects
+
 
 <!--
 
